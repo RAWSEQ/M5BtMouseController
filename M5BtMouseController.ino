@@ -14,10 +14,10 @@ int is_bt_ready = false;
 void setup()
 {
     M5.begin(true, false, true);
-    M5.dis.drawpix(0, 0x00ff00);
     Serial.println("StartMouse.");
     bleMouse.begin();
     Serial.println("Ready.");
+    M5.dis.drawpix(0, 0x00ff00);
 }
 
 void loop()
