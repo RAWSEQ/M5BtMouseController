@@ -6,6 +6,8 @@ iPhoneのリモートマクロ操作を実現する為のコントローラー�
 
 [M5BtMouseScriptor](https://github.com/RAWSEQ/M5BtMouseScriptor) と組み合わせて利用します。
 
+![img](https://ltside.com/images/m5btmouse.drawio.png)
+
 ## 環境
 
 - Android IDE にて M5 ATOM をプログラムできる環境
