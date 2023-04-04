@@ -1,0 +1,6 @@
+{
+    "sketch": "M5BtMouseController.ino",
+    "port": "COM3",
+    "board": "esp32:esp32:m5stack-atom",
+    "configuration": "PartitionScheme=default,UploadSpeed=750000,DebugLevel=none"
+}
